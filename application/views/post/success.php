@@ -1,0 +1,1 @@
+<h2 class="text-success">Your From is being Sucessfully submited</h2>

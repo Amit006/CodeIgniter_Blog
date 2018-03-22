@@ -1,0 +1,53 @@
+{
+	"java.errors.incompleteClasspath.severity": "ignore",
+	"terminal.integrated.shell.windows":
+		"C:\\Program Files\\Cmder\\vendor\\git-for-windows\\bin\\bash.exe",
+	"workbench.iconTheme": "material-icon-theme",
+	"python.pythonPath": "C:/Python34/python.exe",
+	"window.zoomLevel": 0,
+	"vsicons.dontShowNewVersionMessage": true,
+	"editor.fontSize": 15,
+	"C_Cpp.intelliSenseEngine": "Default",
+	"C_Cpp.intelliSenseEngineFallback": "Enabled",
+	"kite.showTourOnStartup": false,
+	"sublimeTextKeymap.promptV3Features": true,
+	"spellright.language": "en",
+	"typescript.check.npmIsInstalled": false,
+	"sqltools.telemetryUUID": "49c91c36-f809-4786-b84c-7ebc7525331e",
+	"vsicons.projectDetection.autoReload": true,
+	"gitlens.advanced.messages": {
+		"suppressCommitHasNoPreviousCommitWarning": false,
+		"suppressCommitNotFoundWarning": false,
+		"suppressFileNotUnderSourceControlWarning": false,
+		"suppressGitVersionWarning": false,
+		"suppressLineUncommittedWarning": false,
+		"suppressNoRepositoryWarning": false,
+		"suppressUpdateNotice": false,
+		"suppressWelcomeNotice": true
+	},
+	"python.disablePromptForFeatures": ["pylint"],
+	"workbench.panel.location": "bottom",
+	"workbench.colorTheme": "Monokai Dimmed",
+	"sublimeTextKeymap.promptV3Features": true,
+
+	// Changes the multi cursor mouse binding
+	"editor.multiCursorModifier": "ctrlCmd",
+
+	// Specifies the location of snippets in the suggestion widget
+	"editor.snippetSuggestions": "top",
+
+	// Controls whether format on paste is on or off
+	"editor.formatOnPaste": true,
+	"php.validate.executablePath": "C:/xampp/php/php.exe",
+	"kite.editorMetricsEnabled": "yes",
+	"php-cs-fixer.executablePath": "php-cs-fixer",
+    "php-cs-fixer.executablePathWindows": "",   //eg: php-cs-fixer.bat
+    "php-cs-fixer.onsave": false,
+    "php-cs-fixer.rules": "@PSR2",
+    "php-cs-fixer.config": ".php_cs",
+    "php-cs-fixer.autoFixByBracket": true,
+    "php-cs-fixer.autoFixBySemicolon": false,
+    "php-cs-fixer.formatHtml": false,
+    "php-cs-fixer.documentFormattingProvider": true,
+    "php-cs-fixer.allowRisky": false
+}
